@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# CatBoost training logs
+catboost_info/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Assessment datasets supplied by Spotter
+data/train-test.csv
+data/validation.csv
+data/validation-predictions-template.csv
+data/december-chart-inputs.csv
