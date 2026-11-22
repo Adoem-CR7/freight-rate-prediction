@@ -6,6 +6,14 @@ The objective is to predict freight transportation rates using shipment characte
 
 The solution uses LightGBM regression and includes separate models for the main validation dataset and the December prediction task.
 
+## Video walkthrough
+
+A short walkthrough covering exploratory data analysis, chronological validation, model selection, error analysis, and December predictions.
+
+**Loom recording:** [Watch the video](https://www.loom.com/share/ab10bb507f6d411caef3e9ffda430428)
+
+**Password:** `123456789`
+
 ## 1. Approach
 
 ### Data preprocessing
