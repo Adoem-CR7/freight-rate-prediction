@@ -12,8 +12,6 @@ A short walkthrough covering exploratory data analysis, chronological validation
 
 **Loom recording:** [Watch the video](https://www.loom.com/share/ab10bb507f6d411caef3e9ffda430428)
 
-**Password:** `123456789`
-
 ## 1. Approach
 
 ### Data preprocessing
